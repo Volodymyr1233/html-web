@@ -1,1 +1,1 @@
-Preview link: https://github.com/Volodymyr1233/html-web/deployments/github-pages
+Preview link: (https://volodymyr1233.github.io/html-web/
